@@ -1,0 +1,5 @@
+{
+  "name": "Couple Finance Tracker",
+  "description": "A smart finance tracking application for couples. It uses AI to automatically categorize expenses and provides a clear summary of shared finances, helping to balance who owes whom.",
+  "requestFramePermissions": []
+}
